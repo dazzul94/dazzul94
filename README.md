@@ -3,6 +3,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadol)](https://solved.ac/dadol)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dazzul94)](https://github.com/dazzul94/github-profile-trophy)
+
 <!--
 **dazzul94/dazzul94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
